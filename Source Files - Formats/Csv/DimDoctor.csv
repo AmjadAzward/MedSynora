@@ -1,0 +1,111 @@
+Doctor_ID,Doctor Name,Doctor Surname,Doctor Title,Doctor Nationality,Medical Unit,Max Patient Count
+813,Mucahit,Cetin,Dist. Prof.,Turkish,Cardiology,4
+814,Mateo,Triplat,Surgeon Dr.,Croatian,Cardiology,2
+815,Luiz Fernando,Vargas,Surgeon Dr.,Brazilian,Cardiology,2
+816,Phkaathiphy,Buysl,Professor,Thai,Cardiology,4
+817,Antonella,Weiss,Surgeon Dr.,Austrian,Cardiology,2
+818,Carmen,Ojeda,GP.,Spanish,Cardiology,2
+819,Jaeman,Utama,Surgeon Dr.,Indonesian,Cardiology,2
+820,Jacob,Anderson,Dist. Prof.,Filipino,Cardiology,4
+821,Anna,Kovacs,Dist. Prof.,Hungarian,Vascular Medicine,4
+822,Lydie,Sedlak,Specialist Dr.,Czech,Vascular Medicine,2
+823,David,Tornqvist,Professor,Swedish,Vascular Medicine,4
+824,Graeme,Thompson,GP.,English,Vascular Medicine,2
+825,Luiz Fernando,Andrade,Dist. Prof.,Brazilian,Endocrinology,4
+826,Milena,Rocha,Dist. Prof.,Brazilian,Endocrinology,4
+827,Mariana,Paiva,GP.,Portuguese,Endocrinology,2
+828,Agnieszka,Kubrak,Specialist Dr.,Polish,Endocrinology,2
+829,Amber,Buckley,Dist. Prof.,Irish,Endocrinology,4
+830,Sayuri,Fu Tian,Professor,Japanese,Endocrinology,4
+831,Alex,Maynard,Professor,Canadian,Pulmonology,4
+832,Ilona,Toth,Assoc. Prof.,Hungarian,Pulmonology,3
+833,Silantii,Kotov,Dist. Prof.,Russian,Pulmonology,4
+834,Egidijus,Nauseda,Professor,Lithuanian,Pulmonology,4
+835,Teknaz,Sener,Professor,Turkish,Gastroenterology,4
+836,Caeweon,Gim,Assoc. Prof.,Korean,Gastroenterology,3
+837,Gabriela,Matejka,Assoc. Prof.,Czech,Gastroenterology,3
+838,Aidan,Jacques,Professor,New Zealander,Hepatology,4
+839,Lara,Luna,Dist. Prof.,Argentinian,Hepatology,4
+840,Rory,Linnane,Professor,Irish,Hepatology,4
+841,Goran,Franic,Dist. Prof.,Croatian,Nephrology,4
+842,Mogens,Dam,Professor,Danish,Nephrology,4
+843,Rita,Kristoffersen,Professor,Danish,Nephrology,4
+844,Mei Jia Zi,Lin,Surgeon Dr.,Japanese,Nephrology,2
+845,Karen,Lindsey,Professor,Egyptian,Neurology,4
+846,Kadri,Tali,GP.,Estonian,Neurology,2
+847,Ushan,Aksu,Professor,Turkish,Neurology,4
+848,Viktor,Steiger,Specialist Dr.,Austrian,Neurology,2
+849,Erika,Correia,Surgeon Dr.,Portuguese,Neurology,2
+850,Justina,Perez,Professor,Argentinian,Neurology,4
+851,Vanesa,Zukauskas,Professor,Lithuanian,Rheumatology,4
+852,Urban,Kockova,Specialist Dr.,Slovak,Rheumatology,2
+853,Murray,Lewis,Assoc. Prof.,New Zealander,Rheumatology,3
+854,Aivaras,Stankevicius,Assoc. Prof.,Lithuanian,Rheumatology,3
+855,Hortensia,Soto,Dist. Prof.,Chilean,Dermatology,4
+856,Sirwathn,Thrrmsthitaiphsaal,GP.,Thai,Dermatology,2
+857,Bjorn,Konings,Professor,Dutch,Dermatology,4
+858,Rokas,Gaizauskas,Professor,Lithuanian,Dermatology,4
+859,Laura,Kim,GP.,Egyptian,Dermatology,2
+860,Sophronia,Skoularides,Professor,Greek,Hematology,4
+861,Felix,Lorenzo,Dist. Prof.,Spanish,Hematology,4
+862,Sayuri,Shan Kou,Professor,Japanese,Hematology,4
+863,Sirinanth,Ethiiyraayan,Professor,Thai,Hematology,4
+864,Natalja,Tsvetkov,GP.,Estonian,Hematology,2
+865,Manuel,Federico,Professor,Italian,General,4
+866,Marina,Zuzic,Surgeon Dr.,Croatian,General,2
+867,Jiri,Sykora,Dist. Prof.,Czech,Genetics,4
+868,Milena,Antic,Dist. Prof.,Croatian,Genetics,4
+869,Susanna,Boner,Professor,Irish,Genetics,4
+870,Timothy,Murphy,Professor,Egyptian,Genetics,4
+871,Pedro,Morales,Dist. Prof.,Argentinian,Psychiatry,4
+872,Eunika,Krizan,Dist. Prof.,Slovak,Psychiatry,4
+873,Jesse,Sanchez,Professor,Egyptian,Psychiatry,4
+874,Luiz Henrique,Fogaca,Dist. Prof.,Brazilian,Psychiatry,4
+875,Jeannette,Alvarez,Dist. Prof.,Chilean,Pediatrics,4
+876,Bogdan,Valenko,Specialist Dr.,Ukrainian,Pediatrics,2
+877,Ernestas,Gaizauskas,Professor,Lithuanian,Pediatrics,4
+878,Jin Feng,Lu,Specialist Dr.,Chinese,Pediatrics,2
+879,Helene,Ahmed,GP.,Norwegian,Pediatrics,2
+880,Stephen,Smith,Dist. Prof.,New Zealander,Pediatrics,4
+881,Olivia,Brown,Professor,New Zealander,Pediatrics,4
+882,Yu,Wu,Dist. Prof.,Chinese,Gynecology,4
+883,Jacqueline,Brown,Surgeon Dr.,Arabic,Gynecology,2
+884,Ciuri,Lomaze,Professor,Georgian,Gynecology,4
+885,Maria,Soto,Professor,Chilean,Gynecology,4
+886,Noah,Buijs,Specialist Dr.,Dutch,Gynecology,2
+887,Gabriela,Tomasik,Professor,Slovak,Orthopedics,4
+888,Ella,Kohler,Specialist Dr.,Austrian,Orthopedics,2
+889,Dong Mei,He,Assoc. Prof.,Chinese,Orthopedics,3
+890,Karolis,Gronskis,Professor,Lithuanian,Occupational Medicine,4
+891,Frederic,Geisel,Specialist Dr.,German,Occupational Medicine,2
+892,Jakobs,Cirule,Dist. Prof.,Latvian,Otorhinolaryngology,4
+893,Kevin,Bernasconi,Dist. Prof.,Swiss,Otorhinolaryngology,4
+894,Mary,Pope,Assoc. Prof.,New Zealander,Otorhinolaryngology,3
+895,Alexandra,Kiss,GP.,Hungarian,Otorhinolaryngology,2
+896,Howard,Norris,Assoc. Prof.,English,Otorhinolaryngology,3
+897,Mahulena,Krizova,Professor,Czech,Emergency Medicine,4
+898,Cristian,Acosta,Dist. Prof.,Colombian,Emergency Medicine,4
+899,Angel,Thompson,Specialist Dr.,New Zealander,Emergency Medicine,2
+900,Gergeliub,Simeonov,Dist. Prof.,Bulgarian,Infectious Disease,4
+901,Jordy,Ellis,Assoc. Prof.,Dutch,Infectious Disease,3
+902,Jean,Harris,Professor,English,Infectious Disease,4
+903,Wen,Xia,Dist. Prof.,Chinese,Infectious Disease,4
+904,Piywdii,Mnthng,Professor,Thai,Oncology,4
+905,Najib,Hidayat,Professor,Indonesian,Oncology,4
+906,Pia,Landl,Assoc. Prof.,Austrian,Oncology,3
+907,Julia,Collins,Specialist Dr.,American,Oncology,2
+908,Fernanda,Varela,Professor,Chilean,Oncology,4
+909,Nestor,Levchenko,Assoc. Prof.,Ukrainian,Oncology,3
+910,Zlatko,Urblikova,Dist. Prof.,Slovak,Oncology,4
+911,Alfons,Scheibe,Professor,German,Dentistry,4
+912,Isai,Kornilov,Surgeon Dr.,Russian,Dentistry,2
+913,Hao,Wu,Surgeon Dr.,Chinese,Dentistry,2
+914,Mia,Kerschbaumer,Dist. Prof.,Austrian,Ophthalmology,4
+915,Crystal,Allen,Surgeon Dr.,Filipino,Ophthalmology,2
+916,Margietta,Tsandelas,Professor,Greek,Ophthalmology,4
+917,Pietra,Dias,Specialist Dr.,Brazilian,Ophthalmology,2
+918,Harald,Schmid,Professor,Swiss,Ophthalmology,4
+919,Jayadi,Mandasari,Dist. Prof.,Indonesian,General Practice,4
+920,Jaehyeon,I,Surgeon Dr.,Korean,General Practice,2
+921,Asuka,Song Tian,Surgeon Dr.,Japanese,General Practice,2
+922,Aurelia,Zapior,Assoc. Prof.,Polish,General Practice,3

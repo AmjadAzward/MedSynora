@@ -1,0 +1,7 @@
+RoomKey,Care_Level,Room Type
+203,None,Deluxe
+204,None,Suite
+205,ICU,Suite (ICU)
+206,None,Standard
+207,Isolation,Suite (Isolation)
+208,ICU+Isolation,Suite (ICU+Isolation)

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <AdditionalServiceID>1</AdditionalServiceID>
+    <ServiceName>Family Accommodation</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>2</AdditionalServiceID>
+    <ServiceName>Massage Therapy</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>3</AdditionalServiceID>
+    <ServiceName>Spa Treatments</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>4</AdditionalServiceID>
+    <ServiceName>Personal Concierge</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>5</AdditionalServiceID>
+    <ServiceName>Pet Boarding</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>6</AdditionalServiceID>
+    <ServiceName>Private Nurse</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>7</AdditionalServiceID>
+    <ServiceName>Premium Entertainment</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>8</AdditionalServiceID>
+    <ServiceName>Gym Access</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>9</AdditionalServiceID>
+    <ServiceName>Luxury Toiletries</ServiceName>
+  </row>
+  <row>
+    <AdditionalServiceID>10</AdditionalServiceID>
+    <ServiceName>Interpreter Services</ServiceName>
+  </row>
+</root>

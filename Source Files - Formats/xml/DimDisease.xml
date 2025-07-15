@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Disease_ID>1661</Disease_ID>
+    <Admission_Diagnosis>Tonsillitis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>43</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1635</Disease_ID>
+    <Admission_Diagnosis>Tooth Decay</Admission_Diagnosis>
+    <Disease_Type>Dental Health</Disease_Type>
+    <Disease_Severity>20</Disease_Severity>
+    <Medical_Unit>Dentistry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1632</Disease_ID>
+    <Admission_Diagnosis>Acute Myeloid Leukemia</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>87</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1452</Disease_ID>
+    <Admission_Diagnosis>Kidney Stones</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>46</Disease_Severity>
+    <Medical_Unit>Nephrology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1441</Disease_ID>
+    <Admission_Diagnosis>Crohn&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1710</Disease_ID>
+    <Admission_Diagnosis>Dementia</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1485</Disease_ID>
+    <Admission_Diagnosis>Polymyalgia Rheumatica</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>38</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1414</Disease_ID>
+    <Admission_Diagnosis>Coronary Artery Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>88</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1670</Disease_ID>
+    <Admission_Diagnosis>Bacterial Meningitis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>78</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1545</Disease_ID>
+    <Admission_Diagnosis>Phobias</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>36</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1416</Disease_ID>
+    <Admission_Diagnosis>Arrhythmias</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>68</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1442</Disease_ID>
+    <Admission_Diagnosis>Ulcerative Colitis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>68</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1593</Disease_ID>
+    <Admission_Diagnosis>Low Back Pain</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>48</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1685</Disease_ID>
+    <Admission_Diagnosis>Chronic Back Pain</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1705</Disease_ID>
+    <Admission_Diagnosis>Hypertension(Primary)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1478</Disease_ID>
+    <Admission_Diagnosis>Rheumatoid Arthritis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1549</Disease_ID>
+    <Admission_Diagnosis>ADHD</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1589</Disease_ID>
+    <Admission_Diagnosis>Meniscus Tear</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>44</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1430</Disease_ID>
+    <Admission_Diagnosis>Asthma</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>43</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1421</Disease_ID>
+    <Admission_Diagnosis>Type 1 Diabetes Mellitus</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1658</Disease_ID>
+    <Admission_Diagnosis>Epistaxis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>27</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1620</Disease_ID>
+    <Admission_Diagnosis>Skin Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>68</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1601</Disease_ID>
+    <Admission_Diagnosis>Noise-Induced Hearing Loss</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>35</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1675</Disease_ID>
+    <Admission_Diagnosis>Malaria</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>72</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1418</Disease_ID>
+    <Admission_Diagnosis>Peripheral Artery Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1484</Disease_ID>
+    <Admission_Diagnosis>Behcet&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1646</Disease_ID>
+    <Admission_Diagnosis>Macular Degeneration</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1519</Disease_ID>
+    <Admission_Diagnosis>Thrombocytopenia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>49</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1689</Disease_ID>
+    <Admission_Diagnosis>Peripheral Artery Disease (PAD)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Vascular Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1597</Disease_ID>
+    <Admission_Diagnosis>Silicosis</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>63</Disease_Severity>
+    <Medical_Unit>Occupational Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1513</Disease_ID>
+    <Admission_Diagnosis>Multiple Myeloma</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>78</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1703</Disease_ID>
+    <Admission_Diagnosis>Heart Disease(Other Types)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1711</Disease_ID>
+    <Admission_Diagnosis>Depression</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>62</Disease_Severity>
+    <Medical_Unit>General</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1684</Disease_ID>
+    <Admission_Diagnosis>Chronic Obstructive Pulmonary Disease (COPD)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1427</Disease_ID>
+    <Admission_Diagnosis>Acromegaly</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>51</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1444</Disease_ID>
+    <Admission_Diagnosis>Pancreatitis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1713</Disease_ID>
+    <Admission_Diagnosis>Irritable Bowel Syndrome (IBS)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1655</Disease_ID>
+    <Admission_Diagnosis>Nasal Polyps</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>28</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1708</Disease_ID>
+    <Admission_Diagnosis>SVO (small vessel occlusion)</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1624</Disease_ID>
+    <Admission_Diagnosis>Pancreatic Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>94</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1546</Disease_ID>
+    <Admission_Diagnosis>Schizophrenia</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>83</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1619</Disease_ID>
+    <Admission_Diagnosis>Colon Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1433</Disease_ID>
+    <Admission_Diagnosis>Sleep Apnea</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>46</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1686</Disease_ID>
+    <Admission_Diagnosis>Chronic Fatigue Syndrome</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1645</Disease_ID>
+    <Admission_Diagnosis>Glaucoma</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>69</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1454</Disease_ID>
+    <Admission_Diagnosis>Non-Alcoholic Fatty Liver Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>53</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1581</Disease_ID>
+    <Admission_Diagnosis>Bone Fractures</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>78</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1683</Disease_ID>
+    <Admission_Diagnosis>Mental Health Issues</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1688</Disease_ID>
+    <Admission_Diagnosis>Chronic Migraine</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1644</Disease_ID>
+    <Admission_Diagnosis>Cataracts</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>64</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1699</Disease_ID>
+    <Admission_Diagnosis>Chronic Gastritis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1687</Disease_ID>
+    <Admission_Diagnosis>Liver Disease(Other Types)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1648</Disease_ID>
+    <Admission_Diagnosis>Diabetic Retinopathy</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>66</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1694</Disease_ID>
+    <Admission_Diagnosis>Pulmonary Hypertension</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1431</Disease_ID>
+    <Admission_Diagnosis>Dyspnea</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>76</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1603</Disease_ID>
+    <Admission_Diagnosis>Occupational Dermatitis</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>30</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1641</Disease_ID>
+    <Admission_Diagnosis>Hyperopia</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>15</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1479</Disease_ID>
+    <Admission_Diagnosis>Sjogren&apos;s Syndrome</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1617</Disease_ID>
+    <Admission_Diagnosis>Lung Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>97</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1557</Disease_ID>
+    <Admission_Diagnosis>Mumps</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>44</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1458</Disease_ID>
+    <Admission_Diagnosis>Alzheimer&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>92</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1649</Disease_ID>
+    <Admission_Diagnosis>Conjunctivitis</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>23</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1579</Disease_ID>
+    <Admission_Diagnosis>Osteoarthritis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>73</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1642</Disease_ID>
+    <Admission_Diagnosis>Astigmatism</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>20</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1453</Disease_ID>
+    <Admission_Diagnosis>Hepatitis A</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>52</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1424</Disease_ID>
+    <Admission_Diagnosis>Hypothyroidism</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1665</Disease_ID>
+    <Admission_Diagnosis>COVID-19</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1509</Disease_ID>
+    <Admission_Diagnosis>Leukemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>90</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1700</Disease_ID>
+    <Admission_Diagnosis>Barrett&apos;s Esophagus</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1559</Disease_ID>
+    <Admission_Diagnosis>Whooping Cough</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1502</Disease_ID>
+    <Admission_Diagnosis>Iron Deficiency Anemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>44</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1668</Disease_ID>
+    <Admission_Diagnosis>Tuberculosis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>82</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1680</Disease_ID>
+    <Admission_Diagnosis>Coagulopathy</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1568</Disease_ID>
+    <Admission_Diagnosis>Cystic Fibrosis</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>94</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1423</Disease_ID>
+    <Admission_Diagnosis>Hyperthyroidism</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>47</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1415</Disease_ID>
+    <Admission_Diagnosis>Heart Failure</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>91</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1429</Disease_ID>
+    <Admission_Diagnosis>Obesity</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1706</Disease_ID>
+    <Admission_Diagnosis>Arthritis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1536</Disease_ID>
+    <Admission_Diagnosis>Lesch-Nyhan Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>86</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1652</Disease_ID>
+    <Admission_Diagnosis>Hearing Loss</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>53</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1696</Disease_ID>
+    <Admission_Diagnosis>Varicose Veins</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>30</Disease_Severity>
+    <Medical_Unit>Vascular Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1569</Disease_ID>
+    <Admission_Diagnosis>Endometriosis</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1500</Disease_ID>
+    <Admission_Diagnosis>Scabies</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>19</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1447</Disease_ID>
+    <Admission_Diagnosis>Chronic Renal Failure</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Nephrology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1594</Disease_ID>
+    <Admission_Diagnosis>Kyphosis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>39</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1613</Disease_ID>
+    <Admission_Diagnosis>Bacterial Vaginosis</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>35</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1627</Disease_ID>
+    <Admission_Diagnosis>Bladder Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>67</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1440</Disease_ID>
+    <Admission_Diagnosis>IBS-D</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1602</Disease_ID>
+    <Admission_Diagnosis>Tinnitus</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1637</Disease_ID>
+    <Admission_Diagnosis>Periodontitis</Admission_Diagnosis>
+    <Disease_Type>Dental Health</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Dentistry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1487</Disease_ID>
+    <Admission_Diagnosis>Gout</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>46</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1498</Disease_ID>
+    <Admission_Diagnosis>Fungal Infections</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>30</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1481</Disease_ID>
+    <Admission_Diagnosis>Psoriatic Arthritis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1618</Disease_ID>
+    <Admission_Diagnosis>Prostate Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>86</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1690</Disease_ID>
+    <Admission_Diagnosis>Chronic Sinusitis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1691</Disease_ID>
+    <Admission_Diagnosis>Chronic Hepatitis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1489</Disease_ID>
+    <Admission_Diagnosis>Psoriasis</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>43</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1460</Disease_ID>
+    <Admission_Diagnosis>ALS</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>97</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1466</Disease_ID>
+    <Admission_Diagnosis>Absence Seizures</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>42</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1490</Disease_ID>
+    <Admission_Diagnosis>Eczema</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>35</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1623</Disease_ID>
+    <Admission_Diagnosis>Squamous Cell Carcinoma</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1437</Disease_ID>
+    <Admission_Diagnosis>Gastritis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>31</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1459</Disease_ID>
+    <Admission_Diagnosis>Parkinson&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1439</Disease_ID>
+    <Admission_Diagnosis>GERD</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>38</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1630</Disease_ID>
+    <Admission_Diagnosis>Brain Tumors</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>95</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1435</Disease_ID>
+    <Admission_Diagnosis>Bronchitis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>34</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1598</Disease_ID>
+    <Admission_Diagnosis>Occupational Asthma</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Occupational Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1419</Disease_ID>
+    <Admission_Diagnosis>Cardiomyopathy</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>83</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1455</Disease_ID>
+    <Admission_Diagnosis>Alcoholic Liver Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>61</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1475</Disease_ID>
+    <Admission_Diagnosis>Muscular Dystrophy</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>78</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1604</Disease_ID>
+    <Admission_Diagnosis>Chemical Burns</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Emergency Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1586</Disease_ID>
+    <Admission_Diagnosis>Tendinitis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>52</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1493</Disease_ID>
+    <Admission_Diagnosis>Rosacea</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>18</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1583</Disease_ID>
+    <Admission_Diagnosis>Bone Tumors</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>88</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1653</Disease_ID>
+    <Admission_Diagnosis>Meniere&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1636</Disease_ID>
+    <Admission_Diagnosis>Gum Disease</Admission_Diagnosis>
+    <Disease_Type>Dental Health</Disease_Type>
+    <Disease_Severity>35</Disease_Severity>
+    <Medical_Unit>Dentistry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1553</Disease_ID>
+    <Admission_Diagnosis>Antisocial Personality Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1626</Disease_ID>
+    <Admission_Diagnosis>Kidney Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>81</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1667</Disease_ID>
+    <Admission_Diagnosis>Viral Hepatitis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1701</Disease_ID>
+    <Admission_Diagnosis>Hidradenitis Suppurativa</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1497</Disease_ID>
+    <Admission_Diagnosis>Herpes Zoster</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>46</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1616</Disease_ID>
+    <Admission_Diagnosis>Breast Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>93</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1548</Disease_ID>
+    <Admission_Diagnosis>Delusional Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1422</Disease_ID>
+    <Admission_Diagnosis>Type 2 Diabetes Mellitus</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>71</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1622</Disease_ID>
+    <Admission_Diagnosis>Basal Cell Carcinoma</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1494</Disease_ID>
+    <Admission_Diagnosis>Seborrheic Dermatitis</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>25</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1527</Disease_ID>
+    <Admission_Diagnosis>Familial Hypercholesterolemia</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>52</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1654</Disease_ID>
+    <Admission_Diagnosis>Sinusitis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>38</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1681</Disease_ID>
+    <Admission_Diagnosis>Sepsis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>95</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1438</Disease_ID>
+    <Admission_Diagnosis>Peptic Ulcer Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>49</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1695</Disease_ID>
+    <Admission_Diagnosis>Chronic Venous Insufficiency</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Vascular Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1512</Disease_ID>
+    <Admission_Diagnosis>Non-Hodgkin&apos;s Lymphoma</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>81</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1434</Disease_ID>
+    <Admission_Diagnosis>Interstitial Lung Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>72</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1621</Disease_ID>
+    <Admission_Diagnosis>Melanoma</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1506</Disease_ID>
+    <Admission_Diagnosis>Sickle Cell Anemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>76</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1628</Disease_ID>
+    <Admission_Diagnosis>Stomach Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>92</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1488</Disease_ID>
+    <Admission_Diagnosis>Temporal Arteritis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1674</Disease_ID>
+    <Admission_Diagnosis>Tetanus</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>76</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1692</Disease_ID>
+    <Admission_Diagnosis>Chronic Pancreatitis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1693</Disease_ID>
+    <Admission_Diagnosis>Atrial Fibrillation</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1469</Disease_ID>
+    <Admission_Diagnosis>Migraine</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1578</Disease_ID>
+    <Admission_Diagnosis>Osteoporosis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1516</Disease_ID>
+    <Admission_Diagnosis>Pulmonary Embolism</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>78</Disease_Severity>
+    <Medical_Unit>Vascular Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1712</Disease_ID>
+    <Admission_Diagnosis>Selective Mutism</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1504</Disease_ID>
+    <Admission_Diagnosis>Aplastic Anemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1588</Disease_ID>
+    <Admission_Diagnosis>Carpal Tunnel Syndrome</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>57</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1609</Disease_ID>
+    <Admission_Diagnosis>Hepatitis C</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1634</Disease_ID>
+    <Admission_Diagnosis>Chronic Myeloid Leukemia</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>82</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1443</Disease_ID>
+    <Admission_Diagnosis>Celiac Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>51</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1591</Disease_ID>
+    <Admission_Diagnosis>Herniated Disc</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1640</Disease_ID>
+    <Admission_Diagnosis>Myopia</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>15</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1476</Disease_ID>
+    <Admission_Diagnosis>Peripheral Neuropathy</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1540</Disease_ID>
+    <Admission_Diagnosis>Generalized Anxiety Disorder(GAD)</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1662</Disease_ID>
+    <Admission_Diagnosis>Vocal Cord Nodules</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>30</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1496</Disease_ID>
+    <Admission_Diagnosis>Herpes Simplex Virus</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>32</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1428</Disease_ID>
+    <Admission_Diagnosis>Metabolic Syndrome</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>49</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1517</Disease_ID>
+    <Admission_Diagnosis>Von Willebrand Disease</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>54</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1511</Disease_ID>
+    <Admission_Diagnosis>Hodgkin&apos;s Lymphoma</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>71</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1486</Disease_ID>
+    <Admission_Diagnosis>Sarcoidosis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>51</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1461</Disease_ID>
+    <Admission_Diagnosis>Huntington&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>94</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1501</Disease_ID>
+    <Admission_Diagnosis>Warts</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>22</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1445</Disease_ID>
+    <Admission_Diagnosis>Gallstones</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>52</Disease_Severity>
+    <Medical_Unit>Gastroenterology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1503</Disease_ID>
+    <Admission_Diagnosis>Pernicious Anemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1528</Disease_ID>
+    <Admission_Diagnosis>Hereditary Hemochromatosis</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>44</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1605</Disease_ID>
+    <Admission_Diagnosis>HIV/AIDS</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>96</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1456</Disease_ID>
+    <Admission_Diagnosis>Hemochromatosis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>47</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1656</Disease_ID>
+    <Admission_Diagnosis>Deviated Septum</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>41</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1420</Disease_ID>
+    <Admission_Diagnosis>Deep Vein Thrombosis (DVT)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>59</Disease_Severity>
+    <Medical_Unit>Vascular Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1625</Disease_ID>
+    <Admission_Diagnosis>Liver Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>88</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1563</Disease_ID>
+    <Admission_Diagnosis>Respiratory Syncytial Virus</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1638</Disease_ID>
+    <Admission_Diagnosis>Tooth Abscess</Admission_Diagnosis>
+    <Disease_Type>Dental Health</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Dentistry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1510</Disease_ID>
+    <Admission_Diagnosis>Lymphoma</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1697</Disease_ID>
+    <Admission_Diagnosis>Chronic Tinnitus</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1492</Disease_ID>
+    <Admission_Diagnosis>Vitiligo</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>20</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1450</Disease_ID>
+    <Admission_Diagnosis>Glomerulonephritis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Nephrology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1647</Disease_ID>
+    <Admission_Diagnosis>Retinal Detachment</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>83</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1596</Disease_ID>
+    <Admission_Diagnosis>Asbestosis</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Occupational Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1482</Disease_ID>
+    <Admission_Diagnosis>Systemic Sclerosis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>77</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1608</Disease_ID>
+    <Admission_Diagnosis>Hepatitis B</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1471</Disease_ID>
+    <Admission_Diagnosis>Cluster Headache</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1463</Disease_ID>
+    <Admission_Diagnosis>Frontotemporal Dementia</Admission_Diagnosis>
+    <Disease_Type>Unknown</Disease_Type>
+    <Disease_Severity>90</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1480</Disease_ID>
+    <Admission_Diagnosis>Ankylosing Spondylitis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1698</Disease_ID>
+    <Admission_Diagnosis>Fibromyalgia</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1483</Disease_ID>
+    <Admission_Diagnosis>Vasculitis</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>66</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1664</Disease_ID>
+    <Admission_Diagnosis>Common Cold</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>15</Disease_Severity>
+    <Medical_Unit>General Practice</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1702</Disease_ID>
+    <Admission_Diagnosis>Chronic Lyme Disease</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1704</Disease_ID>
+    <Admission_Diagnosis>Insulin Resistance</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1709</Disease_ID>
+    <Admission_Diagnosis>Thyroid Disorders(Other)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>46</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1436</Disease_ID>
+    <Admission_Diagnosis>Lung Fibrosis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>64</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1462</Disease_ID>
+    <Admission_Diagnosis>Multiple Sclerosis</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1495</Disease_ID>
+    <Admission_Diagnosis>Alopecia Areata</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>27</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1526</Disease_ID>
+    <Admission_Diagnosis>Albinism</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>30</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1614</Disease_ID>
+    <Admission_Diagnosis>Trichomoniasis</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1599</Disease_ID>
+    <Admission_Diagnosis>Lumbar Disc Herniation</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>General</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1595</Disease_ID>
+    <Admission_Diagnosis>Pneumoconiosis</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Occupational Medicine</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1505</Disease_ID>
+    <Admission_Diagnosis>Hemolytic Anemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1539</Disease_ID>
+    <Admission_Diagnosis>Dysthymia</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>41</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1534</Disease_ID>
+    <Admission_Diagnosis>Angelman Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>68</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1532</Disease_ID>
+    <Admission_Diagnosis>Gaucher&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>77</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1446</Disease_ID>
+    <Admission_Diagnosis>Liver Cirrhosis</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>84</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1425</Disease_ID>
+    <Admission_Diagnosis>Cushing&apos;s Syndrome</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>62</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1669</Disease_ID>
+    <Admission_Diagnosis>Streptococcal Infections</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1707</Disease_ID>
+    <Admission_Diagnosis>Cancer(Other Types)</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>90</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1544</Disease_ID>
+    <Admission_Diagnosis>PTSD</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1682</Disease_ID>
+    <Admission_Diagnosis>Immunodeficiency Disorders</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Immunology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1673</Disease_ID>
+    <Admission_Diagnosis>Diphtheria</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>84</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1432</Disease_ID>
+    <Admission_Diagnosis>Pneumonia</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Pulmonology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1538</Disease_ID>
+    <Admission_Diagnosis>Bipolar Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>72</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1561</Disease_ID>
+    <Admission_Diagnosis>Scarlet Fever</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>33</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1633</Disease_ID>
+    <Admission_Diagnosis>Chronic Lymphocytic Leukemia</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1426</Disease_ID>
+    <Admission_Diagnosis>Addison&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Endocrinology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1659</Disease_ID>
+    <Admission_Diagnosis>Pharyngitis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>32</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1473</Disease_ID>
+    <Admission_Diagnosis>Myasthenia Gravis</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>67</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1600</Disease_ID>
+    <Admission_Diagnosis>Repetitive Strain Injury</Admission_Diagnosis>
+    <Disease_Type>Occupational Diseases</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>General</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1468</Disease_ID>
+    <Admission_Diagnosis>Febrile Seizures</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>28</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1472</Disease_ID>
+    <Admission_Diagnosis>Trigeminal Neuralgia</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>66</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1587</Disease_ID>
+    <Admission_Diagnosis>Rotator Cuff Injury</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1449</Disease_ID>
+    <Admission_Diagnosis>Polycystic Kidney Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>62</Disease_Severity>
+    <Medical_Unit>Nephrology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1552</Disease_ID>
+    <Admission_Diagnosis>Borderline Personality Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>64</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1550</Disease_ID>
+    <Admission_Diagnosis>Autism Spectrum Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>71</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1590</Disease_ID>
+    <Admission_Diagnosis>Scoliosis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1639</Disease_ID>
+    <Admission_Diagnosis>Temporomandibular Joint Disorder</Admission_Diagnosis>
+    <Disease_Type>Dental Health</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Dentistry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1522</Disease_ID>
+    <Admission_Diagnosis>Down Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>60</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1491</Disease_ID>
+    <Admission_Diagnosis>Acne Vulgaris</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>22</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1531</Disease_ID>
+    <Admission_Diagnosis>Ehlers-Danlos Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>71</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1643</Disease_ID>
+    <Admission_Diagnosis>Presbyopia</Admission_Diagnosis>
+    <Disease_Type>Eye Diseases</Disease_Type>
+    <Disease_Severity>25</Disease_Severity>
+    <Medical_Unit>Ophthalmology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1451</Disease_ID>
+    <Admission_Diagnosis>Nephrotic Syndrome</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>63</Disease_Severity>
+    <Medical_Unit>Nephrology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1470</Disease_ID>
+    <Admission_Diagnosis>Tension Headache</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>32</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1585</Disease_ID>
+    <Admission_Diagnosis>Bursitis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>42</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1663</Disease_ID>
+    <Admission_Diagnosis>Influenza</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>38</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1515</Disease_ID>
+    <Admission_Diagnosis>Myelodysplastic Syndromes</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1542</Disease_ID>
+    <Admission_Diagnosis>Social Anxiety Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>49</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1556</Disease_ID>
+    <Admission_Diagnosis>Measles</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>47</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1474</Disease_ID>
+    <Admission_Diagnosis>Guillain-Barre Syndrome</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1541</Disease_ID>
+    <Admission_Diagnosis>Panic Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1580</Disease_ID>
+    <Admission_Diagnosis>Paget&apos;s Disease of Bone</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1672</Disease_ID>
+    <Admission_Diagnosis>Cholera</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>67</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1465</Disease_ID>
+    <Admission_Diagnosis>Epilepsy</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>71</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1413</Disease_ID>
+    <Admission_Diagnosis>Hypertension(Secondary)</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>55</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1508</Disease_ID>
+    <Admission_Diagnosis>Hemophilia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1467</Disease_ID>
+    <Admission_Diagnosis>Temporal Lobe Epilepsy</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1660</Disease_ID>
+    <Admission_Diagnosis>Laryngitis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>34</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1677</Disease_ID>
+    <Admission_Diagnosis>Schistosomiasis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>43</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1582</Disease_ID>
+    <Admission_Diagnosis>Osteomyelitis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>63</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1611</Disease_ID>
+    <Admission_Diagnosis>Syphilis</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1657</Disease_ID>
+    <Admission_Diagnosis>Rhinitis</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>35</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1514</Disease_ID>
+    <Admission_Diagnosis>Polycythemia Vera</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>72</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1554</Disease_ID>
+    <Admission_Diagnosis>Narcissistic Personality Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1612</Disease_ID>
+    <Admission_Diagnosis>Chlamydia</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>53</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1564</Disease_ID>
+    <Admission_Diagnosis>Congenital Heart Disease</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>91</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1592</Disease_ID>
+    <Admission_Diagnosis>Spinal Stenosis</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>63</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1417</Disease_ID>
+    <Admission_Diagnosis>Rheumatic Fever</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>42</Disease_Severity>
+    <Medical_Unit>Cardiology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1537</Disease_ID>
+    <Admission_Diagnosis>Major Depressive Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>68</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1518</Disease_ID>
+    <Admission_Diagnosis>Disseminated Intravascular Coagulation (DIC)</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>89</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1629</Disease_ID>
+    <Admission_Diagnosis>Esophageal Cancer</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>87</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1520</Disease_ID>
+    <Admission_Diagnosis>Duchenne Muscular Dystrophy</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>87</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1573</Disease_ID>
+    <Admission_Diagnosis>Pelvic Inflammatory Disease</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>59</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1477</Disease_ID>
+    <Admission_Diagnosis>Systemic Lupus Erythematosus</Admission_Diagnosis>
+    <Disease_Type>Immunology and Rheumatology</Disease_Type>
+    <Disease_Severity>72</Disease_Severity>
+    <Medical_Unit>Rheumatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1507</Disease_ID>
+    <Admission_Diagnosis>Thalassemia</Admission_Diagnosis>
+    <Disease_Type>Hematology</Disease_Type>
+    <Disease_Severity>62</Disease_Severity>
+    <Medical_Unit>Hematology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1584</Disease_ID>
+    <Admission_Diagnosis>Dislocations</Admission_Diagnosis>
+    <Disease_Type>Orthopedics and Traumatology</Disease_Type>
+    <Disease_Severity>48</Disease_Severity>
+    <Medical_Unit>Orthopedics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1576</Disease_ID>
+    <Admission_Diagnosis>Vaginitis</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>33</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1547</Disease_ID>
+    <Admission_Diagnosis>Schizoaffective Disorder</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>74</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1651</Disease_ID>
+    <Admission_Diagnosis>Otitis Externa</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>24</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1631</Disease_ID>
+    <Admission_Diagnosis>Acute Lymphoblastic Leukemia</Admission_Diagnosis>
+    <Disease_Type>Oncology</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Oncology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1679</Disease_ID>
+    <Admission_Diagnosis>Aspergillosis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>35</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1448</Disease_ID>
+    <Admission_Diagnosis>Acute Kidney Injury</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>78</Disease_Severity>
+    <Medical_Unit>Nephrology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1543</Disease_ID>
+    <Admission_Diagnosis>Obsessive-Compulsive Disorder (OCD)</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>67</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1666</Disease_ID>
+    <Admission_Diagnosis>Dengue Fever</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>66</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1676</Disease_ID>
+    <Admission_Diagnosis>Giardiasis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1529</Disease_ID>
+    <Admission_Diagnosis>Neurofibromatosis Type I and II</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>53</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1650</Disease_ID>
+    <Admission_Diagnosis>Otitis Media</Admission_Diagnosis>
+    <Disease_Type>ENT Diseases</Disease_Type>
+    <Disease_Severity>29</Disease_Severity>
+    <Medical_Unit>Otorhinolaryngology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1567</Disease_ID>
+    <Admission_Diagnosis>Cerebral Palsy</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>77</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1606</Disease_ID>
+    <Admission_Diagnosis>HPV</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1572</Disease_ID>
+    <Admission_Diagnosis>Ovarian Cysts</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>63</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1577</Disease_ID>
+    <Admission_Diagnosis>Dysmenorrhea</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1610</Disease_ID>
+    <Admission_Diagnosis>Gonorrhea</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>48</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1678</Disease_ID>
+    <Admission_Diagnosis>Candidiasis</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>28</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1570</Disease_ID>
+    <Admission_Diagnosis>PCOS</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>57</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1615</Disease_ID>
+    <Admission_Diagnosis>Pubic Lice</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>25</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1555</Disease_ID>
+    <Admission_Diagnosis>Chickenpox</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>34</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1524</Disease_ID>
+    <Admission_Diagnosis>Phenylketonuria</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>48</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1607</Disease_ID>
+    <Admission_Diagnosis>Genital Herpes</Admission_Diagnosis>
+    <Disease_Type>Sexually Transmitted Diseases</Disease_Type>
+    <Disease_Severity>50</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1560</Disease_ID>
+    <Admission_Diagnosis>Hand, Foot, and Mouth Disease</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>28</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1499</Disease_ID>
+    <Admission_Diagnosis>Impetigo</Admission_Diagnosis>
+    <Disease_Type>Dermatology</Disease_Type>
+    <Disease_Severity>21</Disease_Severity>
+    <Medical_Unit>Dermatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1521</Disease_ID>
+    <Admission_Diagnosis>Marfan Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>70</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1671</Disease_ID>
+    <Admission_Diagnosis>Lyme Disease</Admission_Diagnosis>
+    <Disease_Type>Infectious Diseases</Disease_Type>
+    <Disease_Severity>45</Disease_Severity>
+    <Medical_Unit>Infectious Disease</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1558</Disease_ID>
+    <Admission_Diagnosis>Rubella</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>39</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1523</Disease_ID>
+    <Admission_Diagnosis>Fragile X Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>56</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1575</Disease_ID>
+    <Admission_Diagnosis>Menopause Symptoms</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>40</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1551</Disease_ID>
+    <Admission_Diagnosis>Tourette Syndrome</Admission_Diagnosis>
+    <Disease_Type>Psychiatry</Disease_Type>
+    <Disease_Severity>42</Disease_Severity>
+    <Medical_Unit>Psychiatry</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1562</Disease_ID>
+    <Admission_Diagnosis>Fifth Disease</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>29</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1574</Disease_ID>
+    <Admission_Diagnosis>Menstrual Disorders</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>32</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1571</Disease_ID>
+    <Admission_Diagnosis>Uterine Fibroids</Admission_Diagnosis>
+    <Disease_Type>Gynecology</Disease_Type>
+    <Disease_Severity>54</Disease_Severity>
+    <Medical_Unit>Gynecology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1464</Disease_ID>
+    <Admission_Diagnosis>Spinocerebellar Ataxia</Admission_Diagnosis>
+    <Disease_Type>Neurology</Disease_Type>
+    <Disease_Severity>80</Disease_Severity>
+    <Medical_Unit>Neurology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1525</Disease_ID>
+    <Admission_Diagnosis>Spinal Muscular Atrophy</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>75</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1566</Disease_ID>
+    <Admission_Diagnosis>Hydrocephalus</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>82</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1533</Disease_ID>
+    <Admission_Diagnosis>Prader-Willi Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>65</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1457</Disease_ID>
+    <Admission_Diagnosis>Wilson&apos;s Disease</Admission_Diagnosis>
+    <Disease_Type>Internal Medicine</Disease_Type>
+    <Disease_Severity>58</Disease_Severity>
+    <Medical_Unit>Hepatology</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1535</Disease_ID>
+    <Admission_Diagnosis>Rett Syndrome</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1565</Disease_ID>
+    <Admission_Diagnosis>Spina Bifida</Admission_Diagnosis>
+    <Disease_Type>Pediatrics</Disease_Type>
+    <Disease_Severity>85</Disease_Severity>
+    <Medical_Unit>Pediatrics</Medical_Unit>
+  </row>
+  <row>
+    <Disease_ID>1530</Disease_ID>
+    <Admission_Diagnosis>Tay-Sachs Disease</Admission_Diagnosis>
+    <Disease_Type>Genetic Diseases</Disease_Type>
+    <Disease_Severity>92</Disease_Severity>
+    <Medical_Unit>Genetics</Medical_Unit>
+  </row>
+</root>
