@@ -8,6 +8,16 @@ The **Medsynora Data Warehouse (DW)** is built to integrate and consolidate hosp
 
 ---
 
+![MedSynora Power BI Dashboard](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20063954.png)
+
+![MedSynora Power BI Dashboard 2](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20064012.png)  
+
+![MedSynora Power BI Dashboard 3](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20064024.png)  
+
+![MedSynora Power BI Dashboard 4](https://github.com/Ilmaa2003/MedSynora/blob/main/Extra/Images/Screenshot%202025-07-16%20064034.png)  
+
+---
+
 ##  Objectives
 
 -  Integrate data from multiple transactional systems and formats (CSV, SQL, Excel, XML, JSON).
